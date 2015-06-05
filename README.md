@@ -21,3 +21,6 @@ to achieve this:
 
 ### Examples
 Read `dd_opts_spec.bash` for examles or run it to ensure the examples work.
+
+### Authors and inspiration
+http://unix.stackexchange.com/questions/207585/dd-style-parameters-to-a-bash-script
