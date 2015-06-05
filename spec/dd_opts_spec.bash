@@ -1,3 +1,4 @@
+cd "$(dirname "${BASH_SOURCE[0]}")"
 source "spec.bash"
 source "dd_opts.bash"
 
